@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Hai Sam, a programming enthusiast and father
 <p align="center">
 <a href="https://github.com/sam-the-hai">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sam-the-hai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
